@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -28,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
