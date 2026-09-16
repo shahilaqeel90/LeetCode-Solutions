@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
