@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [1929-concatenation-of-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
