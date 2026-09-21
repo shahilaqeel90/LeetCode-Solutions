@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
