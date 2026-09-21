@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Sorting
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
