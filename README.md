@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -60,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
