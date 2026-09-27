@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
