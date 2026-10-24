@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
