@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2942-find-words-containing-character](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahilaqeel90/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
